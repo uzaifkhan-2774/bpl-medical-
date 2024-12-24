@@ -27,21 +27,21 @@ const Footer = () => {
         </div>
         <div>
           <h1 className='text-white text-[14px] sm:text-[16px] leading-[24px] sm:leading-[28px] font-semibold'>Specialities</h1>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>Imaging</p>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>Mother & Child Care</p>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>Cardiology Solutions</p>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>Critical Care & Surgery</p>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>Home Care</p>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>Consumables</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4  hover:text-[#2EAAE1] transition duration-300'>Imaging</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4 hover:text-[#2EAAE1] transition duration-300'>Mother & Child Care</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4 hover:text-[#2EAAE1] transition duration-300'>Cardiology Solutions</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4 hover:text-[#2EAAE1] transition duration-300'>Critical Care & Surgery</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4 hover:text-[#2EAAE1] transition duration-300'>Home Care</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4 hover:text-[#2EAAE1] transition duration-300'>Consumables</p>
         </div>
         <div>
           <h1 className='text-white text-[14px] sm:text-[16px] leading-[24px] sm:leading-[28px] font-semibold'>Links</h1>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>About Us</p>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>Blogs</p>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>Services</p>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>News</p>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>Home Care</p>
-          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium pt-4'>Careers</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4 hover:text-[#2EAAE1] transition duration-300'>About Us</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4 hover:text-[#2EAAE1] transition duration-300'>Blogs</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4 hover:text-[#2EAAE1] transition duration-300'>Services</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4 hover:text-[#2EAAE1] transition duration-300'>News</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4 hover:text-[#2EAAE1] transition duration-300'>Home Care</p>
+          <p className='text-[#898989] text-[14px] sm:text-[16px] leading-[21px] sm:leading-[24px] font-medium mt-4 hover:text-[#2EAAE1] transition duration-300'>Careers</p>
         </div>
         <div className='text-white border-l-2 border-sky-600 pl-4 sm:pl-10 py-6 sm:py-12'>
           <h1 className='text-[14px] sm:text-[16px] leading-[20px] sm:leading-[24px] font-semibold'>Our Toll-Free Call Center at</h1>
